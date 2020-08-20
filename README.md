@@ -6,4 +6,5 @@ In this Analysis, instead of loading Dataset from a file, Dataset is being extra
 
 [Click here](https://covidindiatracker.com/) to visit the website and [Click here](https://api.covidindiatracker.com/state_data.json) to visit the API provided.
 
-*Note: Packages used for visualizations include plotly, hence the raw notebook will not be able to show all the plots. Try to execute the file to see every plots and charts.*
+*Note: Packages used for visualizations include plotly, hence github's rendered blob of the notebook will not be able to show all the plots. Try to execute the file to see every plots and charts.*
+
