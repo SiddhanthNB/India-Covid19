@@ -6,6 +6,8 @@ In this Analysis, instead of loading Dataset from a file, Dataset is being extra
 
 *Live Now at* https://covid19-india-streamlit.herokuapp.com/ .
 
+[Click here](https://github.com/SiddhanthNB/covid19-india-streamlit) to visit the repo of the site.
+
 [Click here](https://covidindiatracker.com/) to visit the website and [Click here](https://api.covidindiatracker.com/state_data.json) to check out the API provided.
 
 *Note: Packages used for visualizations include plotly, hence github's rendered blob of the notebook will not be able to show all the plots. To see every plots and charts
